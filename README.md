@@ -14,12 +14,11 @@ This is a personal blog website built using React for the frontend and Appwrite 
 
 ## Technologies Used
 
-* **Frontend:**
-    * React
-    * React Router, Tailwind CSS
-    * Redux
-* **Backend:**
-    * Appwrite
+
+   * React
+   * React Router, Tailwind CSS
+   * Redux
+   * Appwrite
  
 
 ## Usage
