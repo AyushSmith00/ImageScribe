@@ -20,3 +20,12 @@ This is a personal blog website built using React for the frontend and Appwrite 
     * Redux
 * **Backend:**
     * Appwrite
+ 
+
+## Usage
+
+1.  **Create an Account:** Navigate to the registration page and create a new user account.
+2.  **Login:** Use your registered credentials to log in to the website.
+3.  **Write a Blog Post:** Once logged in, you should find an option to create a new blog post. Use the provided editor to write your content.
+4.  **Save Your Post:** You should have options to save your blog post as a draft.
+5.  **View Blog Posts:** The homepage or a dedicated section will display the published blog posts.
