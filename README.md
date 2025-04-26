@@ -1,12 +1,30 @@
-# React + Vite
+# My Blog Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
 
-Currently, two official plugins are available:
+This is a personal blog website built using React for the frontend and Appwrite as the backend database and authentication service. Users can create accounts, write their own blog posts, and save them.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+* **User Authentication:** Secure user registration and login powered by Appwrite.
+* **Blog Post Creation:** A user-friendly interface for writing and formatting blog content.
+* **Saving Blog Posts:** Ability for logged-in users to save their drafts and published blog posts to the Appwrite database.
+* **Viewing Blog Posts:** Display of blog posts for all users to read.
+* **(Optional - You can add more features as you develop)**
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Technologies Used
+
+
+   * React
+   * React Router, Tailwind CSS
+   * Redux
+   * Appwrite
+ 
+
+## Usage
+
+1.  **Create an Account:** Navigate to the registration page and create a new user account.
+2.  **Login:** Use your registered credentials to log in to the website.
+3.  **Write a Blog Post:** Once logged in, you should find an option to create a new blog post. Use the provided editor to write your content.
+4.  **Save Your Post:** You should have options to save your blog post as a draft.
+5.  **View Blog Posts:** The homepage or a dedicated section will display the published blog posts.
