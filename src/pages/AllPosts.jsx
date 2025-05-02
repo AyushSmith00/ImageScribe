@@ -4,11 +4,11 @@ import appwriteService from "../appwrite/mainConfig"
 
 function AllPosts(){
 
-    const [posts, setPost] = useState([])
+    const [posts, setPosts] = useState([])
     useEffect(() => {}, [])
     appwriteService.getPosts([]).then((posts)=> {
         if (posts) {
-            setPost(posts.documents)
+            setPosts(posts.documents)
         }
     })
 
