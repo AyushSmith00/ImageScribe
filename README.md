@@ -1,4 +1,4 @@
-# My Blog Website
+# My Blog
 
 ## Overview
 
@@ -11,15 +11,6 @@ This is a personal blog website built using React for the frontend and Appwrite 
 * **Saving Blog Posts:** Ability for logged-in users to save their drafts and published blog posts to the Appwrite database.
 * **Viewing Blog Posts:** Display of blog posts for all users to read.
 * **(Optional - You can add more features as you develop)**
-
-## Technologies Used
-
-
-   * React
-   * React Router, Tailwind CSS
-   * Redux
-   * Appwrite
- 
 
 ## Usage
 
