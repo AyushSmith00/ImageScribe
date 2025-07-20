@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a personal blog website built using React for the frontend and Appwrite as the backend database and authentication service. Users can create accounts, write their own blog posts, and save them.
+This is a personal blog website built using React for the frontend and Appwrite as Database and Node.js as the backend and authentication service. Users can create accounts, write their own blog posts, and save them.
 
 ## Features
 
